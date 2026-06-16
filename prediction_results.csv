@@ -1,0 +1,5 @@
+Temperature,Vibration,Pressure,Prediction,Result
+50,2,30,0,Machine Operating Normally
+72,5,52,0,Machine Operating Normally
+88,8,68,1,Machine Failure Likely
+100,10,85,1,Machine Failure Likely
