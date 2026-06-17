@@ -1,0 +1,5 @@
+Temperature,Speed,Pressure,Prediction,Result
+50,120,30,0,Good Product
+65,150,45,0,Good Product
+85,190,65,1,Defective Product
+100,220,80,1,Defective Product
